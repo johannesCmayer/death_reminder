@@ -5,4 +5,4 @@ The values are calculated based on your date of birth and an average life expect
 
 Only tested for android.
 
-<img src="DeathTimer.jpg" alt="image" width="400"/>
+<img src="death_reminder.jpg" alt="image" width="400"/>
