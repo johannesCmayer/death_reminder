@@ -5,4 +5,4 @@ The values are calculated based on your date of birth and an average life expect
 
 Only tested for android.
 
-<img src="https://github.com/johannesCmayer/DeathTimer/blob/master/Screenshot_20211109-015713_DeathTimer.jpg" alt="image" width="400"/>
+<img src="DeathTimer.jpg" alt="image" width="400"/>
