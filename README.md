@@ -5,4 +5,4 @@ The values are calculated based on your date of birth and an average life expect
 
 The app is primarily build for android devices.
 
-![IMAGE](https://github.com/johannesCmayer/DeathTimer/blob/master/Screenshot_20211109-015713_DeathTimer.jpg)
+<img src="https://github.com/johannesCmayer/DeathTimer/blob/master/Screenshot_20211109-015713_DeathTimer.jpg" alt="image" width="400"/>
