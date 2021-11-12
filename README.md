@@ -7,4 +7,4 @@ The values are calculated based on your date of birth and an average life expect
 
 Only tested for android.
 
-<img src="death_reminder_states.png" alt="image" width="800"/>
+<img src="death_reminder_states_2.png" alt="image" width="800"/>
